@@ -10,7 +10,7 @@ namespace _20200615_001
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("HELLO WORLD");
+            Console.WriteLine("HELLOㅏㅏ WORLD");
         }
     }
 }
