@@ -1,0 +1,7 @@
+C:\SRC\training-winform\Eception testApp\Eception testApp\obj\Debug\Eception testApp.csprojAssemblyReference.cache
+C:\SRC\training-winform\Eception testApp\Eception testApp\obj\Debug\Eception testApp.csproj.CoreCompileInputs.cache
+C:\SRC\training-winform\Eception testApp\Eception testApp\bin\Debug\Eception testApp.exe.config
+C:\SRC\training-winform\Eception testApp\Eception testApp\bin\Debug\Eception testApp.exe
+C:\SRC\training-winform\Eception testApp\Eception testApp\bin\Debug\Eception testApp.pdb
+C:\SRC\training-winform\Eception testApp\Eception testApp\obj\Debug\Eception testApp.exe
+C:\SRC\training-winform\Eception testApp\Eception testApp\obj\Debug\Eception testApp.pdb
